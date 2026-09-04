@@ -1,192 +1,256 @@
-<!-- ========================================================= -->
-<!--                    GOWTHAM KUMAR                         -->
-<!--                  ADVANCED PROFILE                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=GOWTHAM%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20SYSTEMS%20%7C%20DEVELOPER%20%7C%20ML%20%7C%20WEB%20DEVELOPMENT&descAlignY=62&descSize=16&animation=fadeIn&color=0:020617,45:312E81,75:7C3AED,100:06B6D4"/>
+# GOWTHAM KUMAR K
 
-<br>
+### Data Analyst | Power BI Developer | Business Intelligence | Python | SQL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Gowtham+Kumar+%F0%9F%91%8B;Software+Systems+Student+%F0%9F%8E%93;Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Data+%26+Analytics+Enthusiast+%F0%9F%93%8A;Building+Projects+Every+Day+%F0%9F%9A%80"/>
+<p>
+  <a href="https://github.com/gowtham5204">
+    <img src="https://img.shields.io/badge/GitHub-gowtham5204-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/Gowtham%20Kumar%20K">
+    <img src="https://img.shields.io/badge/LinkedIn-Gowtham%20Kumar%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gowtham52004k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<br><br>
-
-<a href="https://github.com/gowtham5204">
-<img src="https://komarev.com/ghpvc/?username=gowtham5204&label=PROFILE%20VIEWS&style=for-the-badge&color=7C3AED"/>
-</a>
-
-<a href="https://github.com/gowtham5204?tab=followers">
-<img src="https://img.shields.io/github/followers/gowtham5204?label=FOLLOWERS&style=for-the-badge&color=06B6D4"/>
-</a>
-
-<a href="https://github.com/gowtham5204?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-7C3AED?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=gowtham5204&label=PROFILE%20VIEWS&style=flat-square&color=2563EB">
 
 </div>
 
 ---
 
-<table>
-<tr>
+## About Me
 
-<td width="55%" valign="top">
+I am a **final-year M.Sc. Software Systems student** with practical
+experience in **Data Analytics, Business Intelligence, Dashboard
+Development, Data Cleaning, Data Visualization, KPI Reporting,
+and Business Reporting**.
 
-## 👨‍💻 About Me
+I enjoy transforming raw data into meaningful insights and building
+interactive dashboards that support data-driven decision making.
 
-🎓 **M.Sc. Software Systems Student**
+My experience includes working with **Power BI, DAX, Microsoft Excel,
+SharePoint, SQL, Python, and Java** through academic projects and
+internship experience.
 
-💻 Passionate about **Software Development**
+### Career Objective
 
-🤖 Exploring **Machine Learning & AI**
-
-🌐 Building **Web Applications**
-
-📊 Interested in **Data Analytics & Visualization**
-
-🧠 Practicing **Data Structures & Algorithms**
-
-🚀 Turning ideas into practical projects
-
-📚 Continuously learning new technologies
-
-</td>
-
-<td width="45%" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
+> Seeking an entry-level **Data Analyst** position where I can apply
+> my analytical, technical, and problem-solving skills to support
+> data-driven business decisions while continuously learning and
+> developing new technologies.
 
 ---
 
-# 🎯 What I'm Working On
+## Education
 
-<div align="center">
+### M.Sc. Software Systems
 
-<table>
-<tr>
+**KG College of Arts and Science**
 
-<td align="center" width="25%">
+`2022 – Present`
 
-### 💻
-**Software**
-
-Building software applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-**Machine Learning**
-
-Prediction & classification
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-**Web**
-
-Interactive web applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-**Data**
-
-Analytics & visualization
-
-</td>
-
-</tr>
-</table>
-
-</div>
+**CGPA: 8.0**
 
 ---
 
-# 🧰 Tech Stack
+## Internship Experience
 
-## 👨‍💻 Programming
+### Data Analytics Intern
+**ELGi Equipments Ltd.**
 
-<div align="center">
+`Jun 2025 – Oct 2025`
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js&perline=6"/>
+During my internship, I worked on data analytics, business intelligence,
+dashboard development, reporting, and data validation.
 
-</div>
+### Key Contributions
 
-## 🌐 Web Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask&perline=5"/>
-
-</div>
-
-## 🤖 Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</div>
-
-## 🗄️ Database & Analytics
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</div>
-
-## 🔧 Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=4"/>
-
-</div>
+- Developed **Power BI dashboards** for project tracking and business reporting.
+- Created **DAX measures, KPIs, calculated columns, and interactive reports**.
+- Worked with **SharePoint Lists and Microsoft Excel** for data collection and reporting.
+- Supported **MMM Validation** through data analysis and reporting.
+- Performed **data cleaning, transformation, validation, and visualization**.
+- Collaborated with teams to improve **reporting accuracy and workflows**.
+- Improved debugging, documentation, and software development practices.
+- Assisted business users with reporting requirements and dashboard improvements.
 
 ---
 
-# 🚀 Featured Projects
+# Technical Skills
 
-<table>
-<tr>
+### Programming
 
-<td width="50%" valign="top">
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp">
+</p>
 
-## 🌾 Crop Yield Prediction
+`Python` `Java` `C++`
 
-Machine learning based agriculture project designed to work with environmental and agricultural parameters.
+---
 
-**Core Technologies**
+### Data Analytics & Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white">
+
+</p>
+
+`Dashboard Development`  
+`Data Analysis`  
+`Data Cleaning`  
+`Data Transformation`  
+`Data Visualization`  
+`KPI Reporting`  
+`Business Reporting`  
+`Power Query`
+
+---
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql">
+</p>
+
+`SQL` `RDBMS` `Data Querying`
+
+---
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css">
+</p>
+
+`HTML` `CSS`
+
+---
+
+# Featured Projects
+
+## 01. IT Portfolio Dashboard
+
+**Power BI · DAX · Power Query · SharePoint**
+
+An interactive business intelligence dashboard designed to monitor
+IT project portfolios, project status, progress, and business
+performance.
+
+### Key Features
+
+- Interactive project portfolio analysis
+- KPI-based project monitoring
+- Project status tracking
+- Dynamic slicers and filters
+- Drill-through reports
+- Calculated columns and DAX measures
+- Power Query data transformation
+- Multiple data source integration
+- Business-focused dashboard design
+
+### Technologies
+
+`Power BI` `DAX` `Power Query` `SharePoint` `Data Analytics`
+
+---
+
+## 02. MMM Validation Dashboard
+
+**Power BI · SharePoint · DAX · Data Validation**
+
+A business reporting solution developed to support the MMM validation
+process through data validation, analysis, visualization, and reporting.
+
+### Key Features
+
+- Dataset validation
+- Data cleaning
+- Data transformation
+- Validation result visualization
+- Project performance reporting
+- SharePoint data integration
+- DAX calculations
+- Interactive Power BI reports
+- Business user collaboration
+
+### Technologies
+
+`Power BI` `DAX` `SharePoint` `Data Validation` `Data Analysis`
+
+---
+
+## 03. Agri Farming Recommendation System
+
+**Python · Flask · Machine Learning · HTML · CSS**
+
+A web-based agriculture recommendation system that recommends
+suitable crops based on environmental and agricultural parameters.
+
+### Key Features
+
+- Crop recommendation
+- Machine Learning prediction
+- Soil-based analysis
+- Season-based analysis
+- Irrigation-based recommendation
+- Climatic condition analysis
+- Data preprocessing
+- Feature engineering
+- Responsive web interface
+- Real-time recommendations
+
+### Machine Learning
+
+**Random Forest Classifier**
+
+### Technologies
+
+`Python` `Flask` `Scikit-Learn` `HTML` `CSS` `Machine Learning`
+
+---
+
+# Data Analytics Workflow
+
+<div align="center">
 
 ```text
-Python
-Flask
-Scikit-Learn
-Pandas
-NumPy
-Machine Learning
+             RAW DATA
+                 │
+                 ▼
+        ┌─────────────────┐
+        │  Data Cleaning  │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Transformation  │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │     Analysis    │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Visualization   │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ KPI & Reporting │
+        └────────┬────────┘
+                 │
+                 ▼
+          BUSINESS INSIGHTS
