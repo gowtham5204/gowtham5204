@@ -4,123 +4,235 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,50:101b3d,100:050914&height=180&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=SOFTWARE%20SYSTEMS%20STUDENT&descAlignY=68&descSize=17&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:050505&height=190&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20SYSTEMS%20STUDENT&descAlignY=60&descSize=16&descColor=ffffff" width="100%">
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=7C5CFF&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Power+BI+Developer;Web+Developer" />
+<!-- ===================== CONNECT ===================== -->
 
-</div>
+<h2>Connect with me. 👨‍💻</h2>
 
----
-
-<div align="center">
-
-### Connect with me. 👋
+<p>
 
 <a href="https://github.com/gowtham5204">
-<img src="https://img.shields.io/badge/GITHUB-050914?style=for-the-badge&logo=github&logoColor=white&labelColor=050914&color=00D9FF"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-050914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050914&color=00D9FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:gowthamkumar42@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050914&color=9B5CFF"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="#">
-<img src="https://img.shields.io/badge/TWITTER-050914?style=for-the-badge&logo=x&logoColor=white&labelColor=050914&color=00D9FF"/>
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-050914?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050914&color=FF4FD8"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 👤 About Me
-
-> 🎓 **M.Sc. Software Systems Student at KG College of Arts & Science.**
-
-> 💻 Passionate about **Python, Data Analytics & Machine Learning.**
-
-> 📊 Experienced in **Power BI, SQL, Data Visualization & Dashboarding.**
-
-> 🌐 Web Developer with skills in **HTML, CSS, JavaScript & Flask.**
-
-> 🚀 Love building real-world projects that solve practical problems.
-
-> 📚 Continuously learning new technologies and improving my skills.
-
----
-
-## ⚙️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,html,css" />
 </p>
 
-### Data / Analytics
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2>About Me. 😊</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+🎓 M.Sc. Software Systems Student at <b>KG College of Arts & Science</b>.
+
+<br>
+
+💻 Passionate about <b>Python, Data Analytics & Machine Learning</b>.
+
+<br>
+
+📊 Experienced in <b>Power BI, SQL, Data Visualization & Dashboarding</b>.
+
+<br>
+
+🌐 Web Developer skilled in <b>HTML, CSS, JavaScript & Flask</b>.
+
+<br>
+
+🤖 Interested in <b>Machine Learning and Data Science</b>.
+
+<br>
+
+🚀 Love building real-world projects that solve practical problems.
+
+<br>
+
+📚 Continuously learning new technologies and improving my skills.
+
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Programming Languages</h3>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js" />
+
+</p>
+
+<h3>Data & Analytics</h3>
+
+<p>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
 </p>
 
-### Web Development
+<h3>Machine Learning</h3>
 
 <p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+<h3>Web Development</h3>
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+
 </p>
 
-### Tools / Others
+<h3>Tools</h3>
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
+<!-- ===================== STATS ===================== -->
+
+<h2>📊 Stats</h2>
 
 <table>
 <tr>
 
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=58A6FF" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham5204&hide_border=true&theme=dark&background=0D1117&ring=F0883E&fire=F0883E&currStreakLabel=F0883E" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================== MOST USED LANGUAGES ===================== -->
+
+<h2>💻 Most Used Languages</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff" width="50%"/>
+
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2>🔥 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=ffffff&line=58A6FF&point=F0883E&area=true&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</p>
+
+---
+
+<!-- ===================== PROFILE DETAILS ===================== -->
+
+<h2>📈 GitHub Profile Details</h2>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowtham5204&theme=github_dark" width="100%"/>
+
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### 🌾 Farming Monitoring System
+<h3>🌾 Crop Yield Prediction</h3>
 
-A smart farming solution to monitor crops, soil, water & weather using IoT and data analytics.
+<p>
+Machine learning based agriculture project for crop prediction and agricultural data analysis.
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-050914?style=flat-square&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Flask-050914?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-050914?style=flat-square&logo=arduino&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/SQL-050914?style=flat-square&logo=mysql&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 IT Portfolio Dashboard
+<h3>📊 IT Portfolio Dashboard</h3>
 
-Power BI dashboard to analyze IT projects, portfolio size, domain, region, and status.
+<p>
+Power BI dashboard for analyzing IT projects, portfolio size, domain, region and project status.
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-050914?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/DAX-050914?style=flat-square&logo=microsoft&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Excel-050914?style=flat-square&logo=microsoftexcel&logoColor=21A366"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-1B1B1B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=excel&logoColor=white"/>
 
 </td>
 
@@ -130,29 +242,28 @@ Power BI dashboard to analyze IT projects, portfolio size, domain, region, and s
 
 <td width="50%" valign="top">
 
-### 📈 Project Review Board Dashboard
+<h3>📋 Project Review Board Dashboard</h3>
 
-Dashboard to track project review, delivery, progress, and milestones.
+<p>
+Dashboard for tracking project review, delivery progress, milestones and project health.
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-050914?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/SharePoint-050914?style=flat-square&logo=microsoftsharepoint&logoColor=00A4EF"/>
-<img src="https://img.shields.io/badge/DAX-050914?style=flat-square&logo=microsoft&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-1B1B1B?style=flat-square"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning Projects
+<h3>🤖 Machine Learning Projects</h3>
 
-ML models for prediction, classification & data analysis using Python & Scikit-learn.
+<p>
+Collection of machine learning projects involving prediction, classification and data analysis.
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-050914?style=flat-square&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/ML-050914?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Scikit--learn-050914?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 </td>
 
@@ -162,82 +273,69 @@ ML models for prediction, classification & data analysis using Python & Scikit-l
 
 <td colspan="2">
 
-### 🌐 Web Development Projects
+<h3>🌐 Web Development Projects</h3>
 
-Collection of responsive websites and web apps developed using HTML, CSS, JavaScript, and Flask.
+<p>
+Collection of responsive websites and web applications developed using HTML, CSS, JavaScript and Flask.
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/HTML-050914?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS-050914?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-050914?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Flask-050914?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 📊 Stats
+<!-- ===================== CURRENTLY ===================== -->
 
-<div align="center">
+<h2>💡 Currently</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&hide_border=true&bg_color=050914&title_color=FFFFFF&text_color=FFFFFF&icon_color=00D9FF&ring_color=9B5CFF" width="48%"/>
+<p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham5204&hide_border=true&background=050914&ring=9B5CFF&fire=FF4FD8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%"/>
-
-</div>
+🔭 Working on <b>Data Analytics & Machine Learning Projects</b>
 
 <br>
 
-<div align="center">
+🌱 Learning <b>Advanced Python, Machine Learning & Data Visualization</b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=donut&hide_border=true&bg_color=050914&title_color=FFFFFF&text_color=FFFFFF" width="42%"/>
+<br>
 
-</div>
+💬 Ask me about <b>Python, SQL, Power BI, Flask & Machine Learning</b>
 
----
+<br>
 
-# 🔥 Contribution Graph
+⚡ Fun fact: <b>I enjoy turning ideas into practical projects.</b>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=050914&color=FFFFFF&line=00D9FF&point=9B5CFF&area=true&hide_border=true" width="100%"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<!-- ===================== FOOTER ===================== -->
 
-### 🐍 Contribution Snake
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=gowtham5204&style=flat-square&color=blue&label=PROFILE+VIEWS"/>
 
-</div>
+</p>
 
----
+<p align="center">
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowtham5204&theme=github_dark" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gowtham5204&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<b>Thanks for visiting my profile! 👋</b>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
+<i>Let's build something amazing together 🚀</i>
 
-**Let's build something amazing together. 🚀**
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:050505&height=100&section=footer"/>
 
 </div>
