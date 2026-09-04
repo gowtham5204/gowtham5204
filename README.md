@@ -1,126 +1,64 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:2563EB,60:7C3AED,100:EC4899&height=220&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20SYSTEMS%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS%20%7C%20ML%20%7C%20POWER%20BI&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:7C3AED&height=220&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20SYSTEMS%20STUDENT&descSize=18&descAlignY=57&animation=fadeIn" width="100%"/>
 
 </div>
 
-<div align="center">
+<!-- CONNECT WITH ME -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gowtham+Kumar+K;M.Sc.+Software+Systems+Student;Python+Developer+%7C+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Web+Developer;Building+Projects+%7C+Learning+Every+Day" />
+<h2>🔗 Connect with me. 👋</h2>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=gowtham5204&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/gowtham5204?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
-
-<img src="https://img.shields.io/github/stars/gowtham5204?label=STARS&style=for-the-badge&color=f59e0b" />
-
-</div>
-
----
-
-# 👋 About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 **M.Sc. Software Systems Student**
-
-💻 Passionate about **Software Development, Data Analytics & Machine Learning**
-
-🐍 Experienced in **Python Programming**
-
-📊 Interested in **Power BI, SQL, Data Visualization & Dashboards**
-
-🤖 Exploring **Machine Learning and AI**
-
-🌐 Building responsive applications using **HTML, CSS, JavaScript & Flask**
-
-🌱 Currently improving my programming and analytical skills
-
-🚀 Interested in building practical projects that solve real-world problems
-
-<br clear="right"/>
-
----
-
-# 🔗 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/gowtham5204">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gowthamkumar42@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://twitter.com/">
 <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🧠 What I Do
+<!-- ABOUT ME -->
 
-<table align="center">
+<h2>👨‍💻 About Me. 🚀</h2>
+
+<table>
 <tr>
-<td width="50%">
+<td width="65%">
 
-### 🐍 Python Development
+🎓 I'm an **M.Sc. Software Systems Student**.
 
-- Python Programming
-- Flask Applications
-- Data Processing
-- Automation
-- Machine Learning
+💻 Passionate about **Software Development, Data Analytics & Machine Learning**.
 
-</td>
+🐍 I enjoy building applications using **Python and Flask**.
 
-<td width="50%">
+📊 Interested in **Power BI, SQL, DAX and Data Visualization**.
 
-### 📊 Data Analytics
+🤖 Exploring **Machine Learning and AI-based applications**.
 
-- Power BI
-- SQL
-- DAX
-- Data Visualization
-- Dashboard Development
+🌐 Developing web applications using **HTML, CSS, JavaScript and Flask**.
 
-</td>
-</tr>
+🌱 Currently learning new technologies and improving my development skills.
 
-<tr>
-<td width="50%">
-
-### 🤖 Machine Learning
-
-- Scikit-learn
-- Random Forest
-- Classification
-- Prediction
-- Data Preprocessing
+🚀 I love turning ideas into practical projects and useful applications.
 
 </td>
 
-<td width="50%">
+<td width="35%" align="center">
 
-### 🌐 Web Development
-
-- HTML
-- CSS
-- JavaScript
-- Flask
-- Responsive UI
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 </td>
 </tr>
@@ -128,167 +66,291 @@
 
 ---
 
-# 🛠️ Tech Stack
+<!-- TECH STACK -->
 
-## 💻 Programming Languages
+<h2>🛠️ Tech Stack ⚙️</h2>
 
-<p align="center">
+<h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
 
 </p>
 
-## 📊 Data & Analytics
+<h3>📊 Data / Analytics</h3>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<p>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
-
-## 🤖 Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+<h3>🤖 Machine Learning</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </p>
 
-## 🌐 Web Development
+<h3>🌐 Web Development</h3>
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
 
 </p>
 
-## 🔧 Tools & Platforms
+<h3>🔧 Tools</h3>
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3>🌾 Farming Monitoring System</h3>
+
+<p>
+A smart farming application designed to monitor agricultural information and provide useful insights for farming activities.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>📊 IT Portfolio Dashboard</h3>
+
+<p>
+Interactive Power BI dashboard for analysing IT projects, portfolio size, domain, region, project status and business information.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>📈 Project Review Board Dashboard</h3>
+
+<p>
+Dashboard for monitoring project reviews, delivery progress, milestones and project health.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🤖 Crop Yield Prediction</h3>
+
+<p>
+Machine learning application for recommending suitable crops using agricultural and environmental parameters.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🧠 Machine Learning Projects</h3>
+
+<p>
+Collection of machine learning experiments involving prediction, classification, preprocessing and data analysis.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🌐 Web Development Projects</h3>
+
+<p>
+Collection of responsive websites and web applications built using modern web technologies.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- STATS -->
+
+<h2>📊 Stats</h2>
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 
-## 🌾 Crop Yield Prediction
+</div>
 
-Machine Learning based agricultural application that recommends suitable crops using environmental and agricultural parameters.
+<br>
 
-**Tech:**
+<div align="center">
 
-`Python` `Flask` `Scikit-learn` `Random Forest`
-
-</td>
-
-<td width="50%">
-
-## 🌱 Farming Monitoring System
-
-A smart farming application designed to monitor agricultural information and provide useful insights for farming activities.
-
-**Tech:**
-
-`Python` `Flask` `SQL` `Data Analytics`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📊 IT Portfolio Dashboard
-
-Interactive Power BI dashboard for analysing IT projects, portfolio size, regions, domains, project status and business information.
-
-**Tech:**
-
-`Power BI` `DAX` `SharePoint` `Excel`
-
-</td>
-
-<td width="50%">
-
-## 📈 Project Review Board Dashboard
-
-Dashboard for monitoring project reviews, delivery progress, milestones, project health and important project information.
-
-**Tech:**
-
-`Power BI` `DAX` `SharePoint`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 Machine Learning Projects
-
-Collection of ML experiments and applications involving prediction, classification, preprocessing and data analysis.
-
-**Tech:**
-
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
-</td>
-
-<td width="50%">
-
-## 🌐 Web Development Projects
-
-Collection of responsive websites and web applications developed using modern web technologies.
-
-**Tech:**
-
-`HTML` `CSS` `JavaScript` `Flask`
-
-</td>
-
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&border_radius=10" width="80%"/>
 
 </div>
 
 ---
 
-# 📌 My Development Areas
+<!-- CONTRIBUTION GRAPH -->
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🐍 Python                    ████████████████████  90%     ║
-║   📊 Power BI                 ██████████████████    85%     ║
-║   🗄️ SQL                      █████████████████     80%     ║
-║   🤖 Machine Learning         ███████████████       75%     ║
-║   🌐 Web Development          ████████████████      80%     ║
-║   ☕ Java                     █████████████         70%     ║
-║   ⚡ C++                      ████████████          65%     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<h2>📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=58A6FF&line=7C3AED&point=EC4899&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+
+<h2>🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+
+</div>
+
+---
+
+<!-- CURRENTLY LEARNING -->
+
+<h2>📚 Currently Learning</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Advanced+Python+%F0%9F%90%8D;Machine+Learning+%F0%9F%A4%96;Power+BI+%F0%9F%93%8A;SQL+%F0%9F%97%84%EF%B8%8F;Data+Analytics+%F0%9F%93%88;Web+Development+%F0%9F%8C%90;Artificial+Intelligence+%F0%9F%A7%A0"/>
+
+</div>
+
+---
+
+<!-- GOALS -->
+
+<h2>🎯 Goals</h2>
+
+<table align="center">
+
+<tr>
+<td>🐍</td>
+<td>Become an advanced Python developer</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td>Build practical Machine Learning applications</td>
+</tr>
+
+<tr>
+<td>📊</td>
+<td>Create professional Power BI dashboards</td>
+</tr>
+
+<tr>
+<td>🗄️</td>
+<td>Improve advanced SQL and database skills</td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td>Build modern web applications</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td>Contribute to Open Source projects</td>
+</tr>
+
+</table>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<h2>💻 Learn • Build • Analyze • Innovate</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1"/>
+
+<br><br>
+
+<a href="https://github.com/gowtham5204">
+<img src="https://img.shields.io/badge/⭐%20FOLLOW%20ME%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,35:7C3AED,65:2563EB,100:020617&height=120&section=footer"/>
+
+</div>
