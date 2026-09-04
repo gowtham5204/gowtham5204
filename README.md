@@ -1,59 +1,294 @@
-<h1 align="center">Hi there, I'm Gowtham Kumar K 👋</h1> <h3 align="center">Software Systems Student | Python Developer | Data Analyst | Power BI Enthusiast</h3> <p align="center"> <img src="https://img.shields.io/badge/PYTHON-4f8cff?style=for-the-badge" alt="Python"/> <img src="https://img.shields.io/badge/DATA%20ANALYTICS-a970ff?style=for-the-badge" alt="Data Analytics"/> <img src="https://img.shields.io/badge/ML-ff5fae?style=for-the-badge" alt="ML"/> <img src="https://img.shields.io/badge/POWER%20BI-e3b341?style=for-the-badge" alt="Power BI"/> <img src="https://img.shields.io/badge/WEB%20DEV-3fb950?style=for-the-badge" alt="Web Dev"/> </p>
-👋 Connect with me
-<p align="center"> <a href="https://github.com/gowtham5204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:gowthamkumar42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-7c8bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> </p>
-👤 About Me
-🎓 M.Sc. Software Systems Student at KG College of Arts & Science
-💻 Passionate about Python, Data Analytics & Machine Learning
-📊 Experienced in Power BI, SQL, Data Visualization & Dashboarding
-🌐 Web Developer with skills in HTML, CSS, JavaScript & Flask
-🚀 Love building real-world projects that solve practical problems
-📚 Continuously learning new technologies and improving my skills
-🛠️ Tech Stack
+<!-- ===================== HEADER ===================== -->
 
-Languages
+<div align="center">
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,mysql,js,c" alt="languages"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:2563EB,60:7C3AED,100:EC4899&height=220&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20SYSTEMS%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS%20%7C%20ML%20%7C%20POWER%20BI&descSize=16&descAlignY=58" width="100%"/>
 
-Data / Analytics
+</div>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=powerbi" alt="data-analytics"/> </p>
+<div align="center">
 
-Pandas · NumPy · Excel
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gowtham+Kumar+K;M.Sc.+Software+Systems+Student;Python+Developer+%7C+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Web+Developer;Building+Projects+%7C+Learning+Every+Day" />
 
-Web Development
+<br>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,flask" alt="web-dev"/> </p>
+<img src="https://komarev.com/ghpvc/?username=gowtham5204&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 
-Tools / Others
+<img src="https://img.shields.io/github/followers/gowtham5204?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" alt="tools"/> </p>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
+<img src="https://img.shields.io/github/stars/gowtham5204?label=STARS&style=for-the-badge&color=f59e0b" />
 
-🌾 Farming Monitoring System A smart farming solution to monitor crops, soil, water & weather using IoT and data analytics. Python Flask IoT SQL — ⭐ 2
+</div>
 
-</td> <td width="50%">
+---
 
-📊 IT Portfolio Dashboard Power BI dashboard to analyze IT projects, portfolio size, domain, region, and status. Power BI DAX Excel — ⭐ 1
+# 👋 About Me
 
-</td> </tr> <tr> <td width="50%">
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-📋 Project Review Board Dashboard Dashboard to track project review, delivery, progress, and milestones. Power BI SharePoint DAX — ⭐ 1
+🎓 **M.Sc. Software Systems Student**
 
-</td> <td width="50%">
+💻 Passionate about **Software Development, Data Analytics & Machine Learning**
 
-🤖 Machine Learning Projects ML models for prediction, classification & data analysis using Python & Scikit-learn. Python ML Scikit-learn — ⭐ 1
+🐍 Experienced in **Python Programming**
 
-</td> </tr> <tr> <td colspan="2">
+📊 Interested in **Power BI, SQL, Data Visualization & Dashboards**
 
-🌐 Web Development Projects Collection of responsive websites and web apps developed using HTML, CSS, JavaScript, Flask. HTML CSS JavaScript Flask — ⭐ 1
+🤖 Exploring **Machine Learning and AI**
 
-</td> </tr> </table>
+🌐 Building responsive applications using **HTML, CSS, JavaScript & Flask**
 
-View all repositories →
+🌱 Currently improving my programming and analytical skills
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/> <img height="165" src="https://streak-stats.demolab.com/?user=gowtham5204&theme=dark&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=donut&theme=dark&hide_border=true" alt="Top Languages"/> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&theme=react-dark&hide_border=true" alt="Contribution Graph"/> </p> <p align="center"><i>🔥 Current Streak: 12 days · Best: 23 days</i></p>
-<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀</i></p> <!-- NOTE ON DYNAMIC IMAGES ----------------------- The stats/streak/activity images above are generated live by free third-party services (github-readme-stats, streak-stats.demolab.com, github-readme-activity-graph). They only render correctly once this file is pushed as the README.md in a PUBLIC repo named exactly "gowtham5204/gowtham5204" on GitHub itself — GitHub's own markdown viewer is required to load them; they will NOT render in most other previewers, local editors, or this chat's preview pane. If they still don't load after pushing to GitHub, it's almost always one of: 1. Repo/username mismatch — the special profile README repo must be named exactly the same as your username (gowtham5204/gowtham5204) and be public. 2. Rate limiting on the shared demo servers — wait a few minutes and refresh, or self-host your own instance (each project's GitHub page has a "Deploy on your own" button). 3. A typo in the username query parameter. Test any of the image URLs by pasting them directly into a browser address bar — if you see an image there, the markdown will work on GitHub. -->
+🚀 Interested in building practical projects that solve real-world problems
+
+<br clear="right"/>
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/gowtham5204">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gowthamkumar42@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 What I Do
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🐍 Python Development
+
+- Python Programming
+- Flask Applications
+- Data Processing
+- Automation
+- Machine Learning
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analytics
+
+- Power BI
+- SQL
+- DAX
+- Data Visualization
+- Dashboard Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+- Scikit-learn
+- Random Forest
+- Classification
+- Prediction
+- Data Preprocessing
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Responsive UI
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+
+</p>
+
+## 📊 Data & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+## 🤖 Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+## 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+
+</p>
+
+## 🔧 Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌾 Crop Yield Prediction
+
+Machine Learning based agricultural application that recommends suitable crops using environmental and agricultural parameters.
+
+**Tech:**
+
+`Python` `Flask` `Scikit-learn` `Random Forest`
+
+</td>
+
+<td width="50%">
+
+## 🌱 Farming Monitoring System
+
+A smart farming application designed to monitor agricultural information and provide useful insights for farming activities.
+
+**Tech:**
+
+`Python` `Flask` `SQL` `Data Analytics`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 IT Portfolio Dashboard
+
+Interactive Power BI dashboard for analysing IT projects, portfolio size, regions, domains, project status and business information.
+
+**Tech:**
+
+`Power BI` `DAX` `SharePoint` `Excel`
+
+</td>
+
+<td width="50%">
+
+## 📈 Project Review Board Dashboard
+
+Dashboard for monitoring project reviews, delivery progress, milestones, project health and important project information.
+
+**Tech:**
+
+`Power BI` `DAX` `SharePoint`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Machine Learning Projects
+
+Collection of ML experiments and applications involving prediction, classification, preprocessing and data analysis.
+
+**Tech:**
+
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+</td>
+
+<td width="50%">
+
+## 🌐 Web Development Projects
+
+Collection of responsive websites and web applications developed using modern web technologies.
+
+**Tech:**
+
+`HTML` `CSS` `JavaScript` `Flask`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📌 My Development Areas
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🐍 Python                    ████████████████████  90%     ║
+║   📊 Power BI                 ██████████████████    85%     ║
+║   🗄️ SQL                      █████████████████     80%     ║
+║   🤖 Machine Learning         ███████████████       75%     ║
+║   🌐 Web Development          ████████████████      80%     ║
+║   ☕ Java                     █████████████         70%     ║
+║   ⚡ C++                      ████████████          65%     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
