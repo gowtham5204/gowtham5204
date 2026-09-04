@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/gowtham-kumar-k-a86ba9285">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -80,38 +80,6 @@
 | 📋 **Project Review Board Dashboard** | Project review, delivery and milestone tracking | Power BI • SharePoint • DAX |
 | 🤖 **Machine Learning Projects** | ML models for prediction and classification | Python • Scikit-learn |
 | 🌐 **Web Development Projects** | Responsive websites and web applications | HTML • CSS • JavaScript • Flask |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&theme=tokyo-night&hide_border=true">
-
-</div>
 
 ---
 
