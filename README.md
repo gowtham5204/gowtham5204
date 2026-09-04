@@ -140,11 +140,11 @@
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Gowtham%20Kumar%20-%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -172,15 +172,13 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
 
 </div>
-
----
 
 # 🚀 Featured Projects
 
