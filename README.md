@@ -1,14 +1,28 @@
+<!-- ========================================================= -->
+<!--                GOWTHAM KUMAR K - PROFILE                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:7C3AED&height=220&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20SYSTEMS%20STUDENT&descSize=18&descAlignY=57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:1D4ED8,75:7C3AED,100:EC4899&height=230&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20SYSTEMS%20%7C%20PYTHON%20%7C%20DATA%20ANALYTICS%20%7C%20ML%20%7C%20POWER%20BI&descSize=16&descAlignY=58" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hello+%F0%9F%91%8B%2C+I'm+Gowtham+Kumar+K;M.Sc.+Software+Systems+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;Data+Analytics+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;Power+BI+Developer+%F0%9F%93%88;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gowtham5204&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/gowtham5204?label=FOLLOWERS&style=for-the-badge&color=2563EB"/>
+
+<img src="https://img.shields.io/github/stars/gowtham5204?label=STARS&style=for-the-badge&color=F59E0B"/>
 
 </div>
 
-<!-- CONNECT WITH ME -->
+---
 
-<h2>🔗 Connect with me. 👋</h2>
+# 🔗 Connect with me. 👋
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/gowtham5204">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -26,102 +40,169 @@
 <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<!-- ABOUT ME -->
-
-<h2>👨‍💻 About Me. 🚀</h2>
+# 👨‍💻 About Me. 🚀
 
 <table>
 <tr>
+
 <td width="65%">
 
-🎓 I'm an **M.Sc. Software Systems Student**.
+🎓 **M.Sc. Software Systems Student**
 
-💻 Passionate about **Software Development, Data Analytics & Machine Learning**.
+💻 Passionate about **Software Development, Data Analytics & Machine Learning**
 
-🐍 I enjoy building applications using **Python and Flask**.
+🐍 Building applications using **Python & Flask**
 
-📊 Interested in **Power BI, SQL, DAX and Data Visualization**.
+📊 Interested in **Power BI, SQL, DAX & Data Visualization**
 
-🤖 Exploring **Machine Learning and AI-based applications**.
+🤖 Exploring **Machine Learning & AI**
 
-🌐 Developing web applications using **HTML, CSS, JavaScript and Flask**.
+🌐 Developing web applications using **HTML, CSS, JavaScript & Flask**
 
-🌱 Currently learning new technologies and improving my development skills.
+📈 Creating interactive dashboards and analytical solutions
 
-🚀 I love turning ideas into practical projects and useful applications.
+🌱 Continuously learning new technologies
+
+🚀 Turning ideas into practical real-world projects
+
+💡 My goal is to combine **Software + Data + AI** to build useful applications.
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- TECH STACK -->
+# 🧠 What I Do
 
-<h2>🛠️ Tech Stack ⚙️</h2>
+<div align="center">
 
-<h3>💻 Programming Languages</h3>
+<table>
 
-<p>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+<td align="center" width="25%">
+
+# 🐍
+
+### Python
+
+Python Development  
+Flask Applications  
+Automation  
+Data Processing
+
+</td>
+
+<td align="center" width="25%">
+
+# 📊
+
+### Data
+
+Power BI  
+SQL  
+DAX  
+Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+# 🤖
+
+### ML / AI
+
+Scikit-learn  
+Random Forest  
+Prediction  
+Classification
+
+</td>
+
+<td align="center" width="25%">
+
+# 🌐
+
+### Web
+
+HTML  
+CSS  
+JavaScript  
+Flask
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack ⚙️
+
+### 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css"/>
 
 </p>
 
-<h3>📊 Data / Analytics</h3>
+### 📊 Data Analytics & BI
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
-<h3>🤖 Machine Learning</h3>
+### 🤖 Machine Learning
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </p>
 
-<h3>🌐 Web Development</h3>
+### 🌐 Web Development
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flask"/>
 
 </p>
 
-<h3>🔧 Tools</h3>
+### 🔧 Tools & Platforms
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm"/>
 
 </p>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-
-<h2>🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
 <table>
 
@@ -129,33 +210,29 @@
 
 <td width="50%">
 
-<h3>🌾 Farming Monitoring System</h3>
+<h2>🌾 Farming Monitoring System</h2>
 
-<p>
-A smart farming application designed to monitor agricultural information and provide useful insights for farming activities.
-</p>
+Smart farming application for monitoring agricultural information and providing useful farming insights.
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
 
 </td>
 
 <td width="50%">
 
-<h3>📊 IT Portfolio Dashboard</h3>
+<h2>📊 IT Portfolio Dashboard</h2>
 
-<p>
-Interactive Power BI dashboard for analysing IT projects, portfolio size, domain, region, project status and business information.
-</p>
+Interactive Power BI dashboard for analysing projects, portfolio size, domain, region, project status and business information.
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
 
 </td>
 
@@ -165,33 +242,29 @@ Interactive Power BI dashboard for analysing IT projects, portfolio size, domain
 
 <td width="50%">
 
-<h3>📈 Project Review Board Dashboard</h3>
+<h2>📈 Project Review Board</h2>
 
-<p>
-Dashboard for monitoring project reviews, delivery progress, milestones and project health.
-</p>
+Power BI dashboard for tracking project reviews, delivery progress, milestones and project health.
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
-</p>
 
 </td>
 
 <td width="50%">
 
-<h3>🤖 Crop Yield Prediction</h3>
+<h2>🤖 Crop Yield Prediction</h2>
 
-<p>
-Machine learning application for recommending suitable crops using agricultural and environmental parameters.
-</p>
+Machine learning application that recommends suitable crops based on agricultural and environmental parameters.
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-</p>
 
 </td>
 
@@ -201,33 +274,29 @@ Machine learning application for recommending suitable crops using agricultural 
 
 <td width="50%">
 
-<h3>🧠 Machine Learning Projects</h3>
+<h2>🧠 Machine Learning Projects</h2>
 
-<p>
-Collection of machine learning experiments involving prediction, classification, preprocessing and data analysis.
-</p>
+Projects involving prediction, classification, preprocessing and data analysis using Python and Scikit-learn.
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-</p>
 
 </td>
 
 <td width="50%">
 
-<h3>🌐 Web Development Projects</h3>
+<h2>🌐 Web Development</h2>
 
-<p>
-Collection of responsive websites and web applications built using modern web technologies.
-</p>
+Responsive websites and web applications developed using HTML, CSS, JavaScript and Flask.
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
 
 </td>
 
@@ -237,15 +306,13 @@ Collection of responsive websites and web applications built using modern web te
 
 ---
 
-<!-- STATS -->
-
-<h2>📊 Stats</h2>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" width="49%"/>
 
 </div>
 
@@ -253,104 +320,105 @@ Collection of responsive websites and web applications built using modern web te
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&border_radius=10" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&border_radius=12" width="85%"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-
-<h2>📈 Contribution Graph</h2>
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=58A6FF&line=7C3AED&point=EC4899&area=true&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowtham5204&theme=github_dark" width="100%"/>
 
 </div>
 
----
-
-<!-- TROPHIES -->
-
-<h2>🏆 GitHub Trophies</h2>
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&theme=tokyo-night&hide_border=true&area=true&custom_title=Gowtham%20Kumar%20K%20-%20Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-<!-- CURRENTLY LEARNING -->
-
-<h2>📚 Currently Learning</h2>
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Advanced+Python+%F0%9F%90%8D;Machine+Learning+%F0%9F%A4%96;Power+BI+%F0%9F%93%8A;SQL+%F0%9F%97%84%EF%B8%8F;Data+Analytics+%F0%9F%93%88;Web+Development+%F0%9F%8C%90;Artificial+Intelligence+%F0%9F%A7%A0"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
 
 </div>
 
 ---
 
-<!-- GOALS -->
+# 🔥 Contribution Activity
 
-<h2>🎯 Goals</h2>
+<div align="center">
 
-<table align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham5204&theme=tokyonight&hide_border=true" width="80%"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<table>
 
 <tr>
-<td>🐍</td>
-<td>Become an advanced Python developer</td>
+
+<td align="center">🐍<br><b>Advanced Python</b></td>
+
+<td align="center">🤖<br><b>Machine Learning</b></td>
+
+<td align="center">📊<br><b>Power BI</b></td>
+
+<td align="center">🗄️<br><b>Advanced SQL</b></td>
+
 </tr>
 
 <tr>
-<td>🤖</td>
-<td>Build practical Machine Learning applications</td>
-</tr>
 
-<tr>
-<td>📊</td>
-<td>Create professional Power BI dashboards</td>
-</tr>
+<td align="center">🧠<br><b>Artificial Intelligence</b></td>
 
-<tr>
-<td>🗄️</td>
-<td>Improve advanced SQL and database skills</td>
-</tr>
+<td align="center">🌐<br><b>Web Development</b></td>
 
-<tr>
-<td>🌐</td>
-<td>Build modern web applications</td>
-</tr>
+<td align="center">📈<br><b>Data Analytics</b></td>
 
-<tr>
-<td>🚀</td>
-<td>Contribute to Open Source projects</td>
+<td align="center">☁️<br><b>Cloud</b></td>
+
 </tr>
 
 </table>
 
+</div>
+
 ---
 
-<!-- FOOTER -->
+# 🎯 2026 Goals
 
-<div align="center">
-
-<h2>💻 Learn • Build • Analyze • Innovate</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1"/>
-
-<br><br>
-
-<a href="https://github.com/gowtham5204">
-<img src="https://img.shields.io/badge/⭐%20FOLLOW%20ME%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,35:7C3AED,65:2563EB,100:020617&height=120&section=footer"/>
-
-</div>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🐍  Become an advanced Python developer                    ║
+║                                                              ║
+║  🤖  Build practical Machine Learning applications          ║
+║                                                              ║
+║  📊  Create professional Power BI dashboards                ║
+║                                                              ║
+║  🗄️  Improve advanced SQL & database skills                 ║
+║                                                              ║
+║  🌐  Build modern full-stack web applications                ║
+║                                                              ║
+║  🧠  Explore Artificial Intelligence                         ║
+║                                                              ║
+║  🚀  Contribute to Open Source projects                      ║
+║                                                              ║
+║  ⭐  Build a strong GitHub portfolio                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
