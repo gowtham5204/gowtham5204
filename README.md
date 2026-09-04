@@ -1,52 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=GOWTHAM%20KUMAR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20SYSTEMS%20%7C%20DEVELOPER%20%7C%20DATA%20%26%20AI%20ENTHUSIAST&descAlignY=60&descSize=16"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=GOWTHAM%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Systems%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20Web%20Development&descAlignY=62&descSize=16&animation=fadeIn&color=0:0F172A,50:7C3AED,100:06B6D4"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Gowtham+Kumar+%F0%9F%91%8B;Software+Systems+Student+%F0%9F%92%BB;Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Always+Learning+Something+New+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Gowtham+Kumar+%F0%9F%91%8B;M.Sc.+Software+Systems+Student+%F0%9F%8E%93;Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gowtham5204&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/gowtham5204?label=FOLLOWERS&style=for-the-badge&color=06B6D4"/>
+<img src="https://img.shields.io/github/followers/gowtham5204?style=for-the-badge&label=FOLLOWERS&color=06B6D4"/>
 
-<img src="https://img.shields.io/github/stars/gowtham5204?label=STARS&style=for-the-badge&color=F59E0B"/>
+<img src="https://img.shields.io/github/stars/gowtham5204?style=for-the-badge&label=STARS&color=F59E0B"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="280" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png">
 
-🎓 **M.Sc. Software Systems Student**
-
-💻 Passionate about **Software Development**
-
-🤖 Interested in **Machine Learning & Artificial Intelligence**
-
-🌐 Interested in **Web Development**
-
-📊 Interested in **Data Analytics & Visualization**
-
-🧠 Love learning new technologies
-
-🚀 Building projects to solve real-world problems
-
-🔍 Interested in **Data Structures & Algorithms**
+- 🎓 **M.Sc. Software Systems Student**
+- 💻 Passionate about **Software Development**
+- 🤖 Interested in **Machine Learning & AI**
+- 🌐 Interested in **Web Development**
+- 📊 Interested in **Data Analytics**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Building real-world projects
+- 📚 Always learning new technologies
 
 ### 🎯 My Goals
 
 - Become a skilled Software Developer
-- Build useful real-world applications
-- Improve my problem-solving skills
+- Improve problem-solving skills
+- Build real-world applications
 - Learn advanced Machine Learning
 - Contribute to Open Source
 
@@ -54,7 +43,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -76,57 +65,54 @@
 
 # 🛠️ Technologies & Tools
 
-## 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js&perline=6"/>
 
 </div>
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask&perline=5"/>
 
 </div>
 
-## 🤖 Machine Learning & Data
+### 🤖 Machine Learning & Data
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </div>
 
-## 🗄️ Database & Analytics
+### 🗄️ Database & Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
-## 🔧 Development Tools
+### 🔧 Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=4"/>
 
 </div>
 
@@ -136,9 +122,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF"/>
 
 </div>
 
@@ -148,17 +134,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=06B6D4"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=06B6D4"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Gowtham%20Kumar's%20Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Gowtham%20Kumar%20-%20Contribution%20Activity"/>
 
 </div>
 
@@ -168,7 +154,19 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -178,7 +176,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
 </div>
 
@@ -191,25 +189,25 @@
 
 <td width="50%">
 
-<h3>🌾 Crop Yield Prediction</h3>
+### 🌾 Crop Yield Prediction
 
-Machine Learning based agriculture project for predicting crop yield using agricultural and environmental parameters.
+Machine Learning project for predicting crop yield using agricultural and environmental parameters.
 
-<b>Technologies</b>
+**Tech Stack**
 
-`Python` `Flask` `Scikit-Learn` `Machine Learning`
+`Python` `Flask` `Scikit-Learn` `Pandas`
 
 </td>
 
 <td width="50%">
 
-<h3>📊 Business Intelligence Dashboard</h3>
+### 📊 Business Intelligence Dashboard
 
 Interactive dashboard for analysing projects, progress, regions and business information.
 
-<b>Technologies</b>
+**Tech Stack**
 
-`Power BI` `DAX` `SharePoint` `Data Analytics`
+`Power BI` `DAX` `SharePoint`
 
 </td>
 
@@ -219,23 +217,23 @@ Interactive dashboard for analysing projects, progress, regions and business inf
 
 <td width="50%">
 
-<h3>🤖 Machine Learning Projects</h3>
+### 🤖 Machine Learning Projects
 
-Projects involving data preprocessing, model training, prediction and data analysis.
+Projects involving preprocessing, model training, classification and prediction.
 
-<b>Technologies</b>
+**Tech Stack**
 
-`Python` `Pandas` `NumPy` `Scikit-Learn`
+`Python` `NumPy` `Pandas` `Scikit-Learn`
 
 </td>
 
 <td width="50%">
 
-<h3>🌐 Web Applications</h3>
+### 🌐 Web Applications
 
-Web applications developed using modern frontend technologies and Python Flask.
+Web applications using modern frontend technologies and Python Flask.
 
-<b>Technologies</b>
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript` `Flask`
 
@@ -250,7 +248,7 @@ Web applications developed using modern frontend technologies and Python Flask.
 
 <div align="center">
 
-| Area | Currently Learning |
+| 🎯 Area | 🚀 Focus |
 |:---:|:---:|
 | 💻 Software | Software Development |
 | 🤖 AI | Machine Learning |
@@ -287,30 +285,18 @@ Web applications developed using modern frontend technologies and Python Flask.
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+<br><br>
+
 ### 🚀 Code • Learn • Build • Repeat
 
 </div>
 
 ---
 
-# 📈 My GitHub Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### Let's connect, collaborate and build something amazing! 🚀
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=120&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
