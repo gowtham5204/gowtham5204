@@ -1,89 +1,64 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!--                    HEADER BANNER                      -->
-<!-- ===================================================== -->
-
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20POWER%20BI&descAlignY=61&descSize=16&animation=fadeIn&color=0:111827,40:1E3A8A,70:2563EB,100:111827"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=GOWTHAM%20KUMAR%20K&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20POWER%20BI%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=62&descSize=14&animation=fadeIn&color=0:0D1117,50:172554,100:2563EB"
 width="100%"
 />
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Final-Year+M.Sc.+Software+Systems+Student;Data+Analyst+%7C+Power+BI+Developer;SQL+%7C+Python+%7C+Excel+%7C+DAX;Business+Intelligence+%7C+Data+Visualization;Turning+Data+into+Business+Insights"
-/>
-
 </div>
 
----
-
-# 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/gowtham5204">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/Gowtham%20Kumar%20K">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:gowtham52004k@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 👨‍💻 About Me
+# 👋 About Me
 
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
-🎓 **Final-year M.Sc. Software Systems student**
+### Gowtham Kumar K
 
-📊 Interested in **Data Analytics & Business Intelligence**
+**Final-year M.Sc. Software Systems Student**
 
-📈 Experienced in **Power BI, DAX & KPI Reporting**
+I am an aspiring **Data Analyst** with practical experience in:
 
-🗄️ Working with **SQL, Excel & SharePoint**
+- Data Analytics
+- Business Intelligence
+- Power BI Dashboard Development
+- Data Cleaning & Transformation
+- Data Visualization
+- KPI Reporting
+- Business Reporting
+- SQL & Excel
+- SharePoint Data Management
 
-🐍 Using **Python for Data Analysis & Machine Learning**
+During my internship at **ELGi Equipments Ltd.**, I worked on
+Power BI dashboards, DAX measures, KPIs, SharePoint Lists,
+Excel-based reporting, data validation and business reporting.
 
-🧹 Experienced in **Data Cleaning & Transformation**
+I enjoy transforming raw data into **clear, meaningful and
+actionable business insights**.
 
-📊 Interested in **Data Visualization & Business Reporting**
+### Career Goal
 
-💡 Strong **Analytical & Problem-Solving Skills**
-
-🚀 Looking for an **Entry-Level Data Analyst opportunity**
-
-<br>
-
-**My focus:**  
-Transforming raw data into meaningful insights that support
-data-driven business decisions.
+Seeking an **entry-level Data Analyst / Business Intelligence**
+opportunity where I can contribute to data-driven decision making
+and continue developing my technical skills.
 
 </td>
 
-<td width="30%" align="center">
+<td width="35%" align="center">
 
 <img
 src="https://github.com/gowtham5204.png"
-width="180"
+width="170"
 alt="Gowtham Kumar"
 style="border-radius:50%"
-/>
+>
 
 <br><br>
 
 <img
-src="https://komarev.com/ghpvc/?username=gowtham5204&style=flat-square&color=2563EB&label=PROFILE+VIEWS"
-/>
+src="https://komarev.com/ghpvc/?username=gowtham5204&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"
+>
 
 </td>
 
@@ -92,106 +67,102 @@ src="https://komarev.com/ghpvc/?username=gowtham5204&style=flat-square&color=256
 
 ---
 
-# 📊 Stats
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 📈 Contributions
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=FFFFFF&hide_title=true"
-width="100%"
-/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔥 Streak
-
-<img
-src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=F59E0B&currStreakLabel=38BDF8"
-width="100%"
-/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Languages
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=6"
-width="100%"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Technologies & Tools
-
-## 💻 Programming Languages
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp">
+<img
+src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=FFFFFF"
+width="48%"
+>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF"
+width="48%"
+>
 
 </div>
 
 ---
 
-## 📊 Data Analytics & Business Intelligence
+# 🛠️ Skills
 
-<div align="center">
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp">
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊 Analytics
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
 <img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge&logo=microsoft">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</td>
 
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white">
+<td width="25%" align="center">
 
-</div>
-
----
-
-## 🌐 Web Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,flask">
-
-</div>
-
----
-
-## 🗄️ Database & Data
-
-<div align="center">
+### 🗄️ Data
 
 <img src="https://skillicons.dev/icons?i=mysql">
 
-<br><br>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</td>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<td width="25%" align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,flask">
+
+</td>
+
+</tr>
+</table>
+
+### Core Skills
+
+<div align="center">
+
+`Data Analysis` `Data Cleaning` `Data Visualization`
+
+`Power BI` `DAX` `Power Query` `KPI Reporting`
+
+`SQL` `Excel` `SharePoint`
+
+`Business Intelligence` `Business Reporting`
 
 </div>
 
 ---
 
-# 💼 Internship
+# 🔧 IDE / Tools I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,visualstudio">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft">
+
+</div>
+
+---
+
+# 💼 Internship Experience
 
 ## Data Analytics Intern — ELGi Equipments Ltd.
 
@@ -200,22 +171,22 @@ width="100%"
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Dashboard Development
 
-- Power BI dashboards
-- DAX measures
-- KPI reporting
-- Interactive reports
-- Project tracking
+- Developed Power BI dashboards
+- Created DAX measures
+- Created KPIs
+- Built interactive reports
+- Project tracking dashboards
 - Business reporting
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔎 Data Analytics
+### 🔎 Data & Reporting
 
 - Data cleaning
 - Data transformation
@@ -223,6 +194,7 @@ width="100%"
 - SharePoint Lists
 - Excel
 - MMM Validation
+- Reporting accuracy
 - Business requirements
 
 </td>
@@ -232,213 +204,126 @@ width="100%"
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-<table>
+### 📊 IT Portfolio Dashboard
 
-<tr>
+**Power BI · DAX · Power Query · SharePoint**
 
-<td width="50%" valign="top">
+Interactive dashboard for monitoring IT project portfolios and
+business performance.
 
-## 📊 IT Portfolio Dashboard
+**Key Features**
 
-**Power BI · DAX · SharePoint · Power Query**
+`Project Tracking` · `KPIs` · `DAX Measures` · `Slicers`
 
-Interactive dashboard for monitoring IT project portfolios and business performance.
+`Drill-through` · `Power Query` · `SharePoint`
 
-### Features
+---
 
-- Project tracking
-- KPI monitoring
-- Dynamic slicers
-- Drill-through reports
-- DAX calculations
-- Power Query
-- SharePoint integration
-- Business visualization
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📈 MMM Validation Dashboard
+### 📈 MMM Validation Dashboard
 
 **Power BI · DAX · SharePoint**
 
-Dashboard supporting the MMM validation process through data analysis and reporting.
+Business intelligence dashboard supporting the MMM validation
+process through data validation, analysis and reporting.
 
-### Features
+**Key Features**
 
-- Data validation
-- Data cleaning
-- Data transformation
-- Validation reporting
-- KPI visualization
-- SharePoint integration
-- Business reporting
+`Data Validation` · `Data Cleaning` · `Transformation`
 
-</td>
+`KPI Reporting` · `Visualization` · `SharePoint`
 
-</tr>
+---
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌾 Agri Farming Recommendation System
+### 🌾 Agri Farming Recommendation System
 
 **Python · Flask · Machine Learning**
 
-Web-based crop recommendation system using agricultural and environmental parameters.
+A web-based agriculture recommendation system that recommends
+suitable crops based on agricultural and environmental parameters.
 
-### Features
+**Machine Learning Model**
 
-- Random Forest
-- Crop recommendation
-- Soil analysis
-- Season analysis
-- Irrigation analysis
-- Feature engineering
-- Data preprocessing
-- Flask application
+`Random Forest Classifier`
 
-</td>
+**Technologies**
 
-<td width="50%" valign="top">
-
-## 🌐 Web Applications
-
-**HTML · CSS · Flask**
-
-Developing practical web applications with responsive interfaces and Python backend development.
-
-### Focus
-
-- Frontend development
-- Backend development
-- Data processing
-- Application testing
-- Problem solving
-
-</td>
-
-</tr>
-
-</table>
+`Python` · `Flask` · `Scikit-Learn` · `HTML` · `CSS`
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=FFFFFF&line=2563EB&point=38BDF8&area=true&hide_border=true&custom_title=Gowtham%20Kumar%20K%20-%20Contribution%20Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=FFFFFF&line=2563EB&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity"
 width="95%"
-/>
+>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-width="95%"
-/>
+src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=F59E0B&currStreakLabel=38BDF8"
+width="75%"
+>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎓 Education
+
+### M.Sc. Software Systems
+
+**KG College of Arts and Science**
+
+`2022 – Present`
+
+**CGPA: 8.0**
+
+---
+
+# 🎯 Current Focus
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
-width="95%"
-/>
+| Area | Current Focus |
+|---|---|
+| 📊 Data Analytics | Data Cleaning & Analysis |
+| 📈 Power BI | Dashboard & KPI Development |
+| 🧮 DAX | Measures & Business Calculations |
+| 🗄️ SQL | Data Querying |
+| 📊 Excel | Data Preparation & Reporting |
+| 🤖 Python | Data Analysis & ML |
+| 📉 Visualization | Business Insights |
 
 </div>
 
 ---
 
-# 📌 Professional Profile
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 📊
-
-**Data Analytics**
-
-Data Cleaning  
-Data Analysis  
-Data Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈
-
-**Business Intelligence**
-
-Power BI  
-DAX  
-KPI Reporting
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Data**
-
-SQL  
-Excel  
-SharePoint
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Development**
-
-Python  
-Java  
-C++
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎯 Career Objective
+# 💡 Professional Strengths
 
 <div align="center">
 
-> **Seeking an entry-level Data Analyst position to apply my analytical,
-> technical and problem-solving skills to support data-driven business
-> decisions.**
+`Analytical Thinking` · `Problem Solving` · `Communication`
+
+`Collaboration` · `Critical Thinking` · `Creativity`
+
+`Adaptability` · `Continuous Learning`
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -451,20 +336,17 @@ C++
 </a>
 
 <a href="mailto:gowtham52004k@gmail.com">
-<img src="https://img.shields.io/badge/gowtham52004k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-gowtham52004k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ### DATA → INSIGHTS → DECISIONS
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:1E3A8A"
-width="100%"
-/>
+**Building dashboards, analysing data, and creating meaningful insights.**
 
 </div>
