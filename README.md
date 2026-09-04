@@ -100,34 +100,6 @@
 
 </p>
 
-<h3>Machine Learning</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
-
-<h3>Web Development</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
-
-</p>
-
-<h3>Tools</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-
-</p>
-
----
-
 <!-- ===================== STATS ===================== -->
 
 <h2>📊 Stats</h2>
@@ -152,40 +124,7 @@
 
 ---
 
-<!-- ===================== MOST USED LANGUAGES ===================== -->
-
-<h2>💻 Most Used Languages</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham5204&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff" width="50%"/>
-
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2>🔥 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowtham5204&bg_color=0D1117&color=ffffff&line=58A6FF&point=F0883E&area=true&hide_border=true" width="100%"/>
-
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/gowtham5204/gowtham5204/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</p>
-
+<!-- ===================== MOST USED LANGUAGES ===================== --
 ---
 
 <!-- ===================== PROFILE DETAILS ===================== -->
@@ -256,41 +195,8 @@ Dashboard for tracking project review, delivery progress, milestones and project
 
 <td width="50%" valign="top">
 
-<h3>🤖 Machine Learning Projects</h3>
 
-<p>
-Collection of machine learning projects involving prediction, classification and data analysis.
-</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-<h3>🌐 Web Development Projects</h3>
-
-<p>
-Collection of responsive websites and web applications developed using HTML, CSS, JavaScript and Flask.
-</p>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 <!-- ===================== CURRENTLY ===================== -->
 
