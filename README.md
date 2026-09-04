@@ -342,17 +342,6 @@ Responsive websites and web applications developed using HTML, CSS, JavaScript a
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham5204&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
-
-</div>
-
----
 
 # 🔥 Contribution Activity
 
