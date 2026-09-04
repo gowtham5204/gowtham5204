@@ -6,6 +6,13 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,10 +26,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy Snake
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
