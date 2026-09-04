@@ -109,12 +109,6 @@
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gowtham5204&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=58A6FF" width="100%"/>
-
-</td>
-
-<td width="50%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham5204&hide_border=true&theme=dark&background=0D1117&ring=F0883E&fire=F0883E&currStreakLabel=F0883E" width="100%"/>
 
 </td>
