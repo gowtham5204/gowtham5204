@@ -20,7 +20,7 @@ M.Sc. Software Systems Student • Data Analytics Enthusiast • Power BI Develo
   <a href="https://github.com/gowtham5204">
     <img src="https://img.shields.io/badge/GitHub-gowtham5204-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/Gowtham-Kumar-K">
+  <a href="[https://www.linkedin.com/in/Gowtham-Kumar-K](https://www.linkedin.com/in/gowtham-kumar-k-a86ba9285/)s">
     <img src="https://img.shields.io/badge/LinkedIn-Gowtham%20Kumar%20K-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
