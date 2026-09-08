@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham Kumar K</h1>
 
 <h3 align="center">
-M.Sc. Software Systems Student • Data Analytics Enthusiast • Power BI Developer • Python Developer
+M.Sc. Software Systems Student • Data Analytics • Power BI Developer 
 </h3>
 
 <p align="center">
