@@ -137,6 +137,17 @@ During my internship, I worked on:
 📝 Documentation and debugging  
 
 ---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 # 📊 My Data Analytics Workflow
 
@@ -160,14 +171,3 @@ Business Insights
 Decision Making
 
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gowtham5204&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
