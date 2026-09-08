@@ -147,8 +147,6 @@ During my internship, I worked on:
 
 ---
 
-# 🐍 Contribution Snake
-
 # 📊 My Data Analytics Workflow
 
 ```text
