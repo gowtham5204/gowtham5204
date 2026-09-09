@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<div>
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+into+Software+%F0%9F%9A%80;Data+Analytics;%7C+Python+%7C+Web+Development;+%7C+Power+BI;Always+Learning+Something+New+%F0%9F%92%A1" />
 
 </div>
