@@ -1,62 +1,62 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hi, I'm Gowtham Kumar K
+# 👨‍💻 GOWTHAM KUMAR K
 
-### 💻 Software Systems Student | Python Developer | Web Developer | Data & ML Enthusiast
+### `Software Systems Student` • `Python Developer` • `ML Enthusiast`
 
-<p>
-  <a href="https://github.com/gowtham5204">
-    <img src="https://img.shields.io/badge/GitHub-gowtham5204-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+into+Software+%F0%9F%9A%80;Python+%7C+Web+Development+%7C+Machine+Learning;Data+Analytics+%7C+Power+BI;Always+Learning+Something+New+%F0%9F%92%A1" />
+
+<br>
+
+<a href="https://github.com/gowtham5204">
+<img src="https://img.shields.io/badge/GitHub-gowtham5204-000000?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
-<!-- ===================== BANNER ===================== -->
+---
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=GOWTHAM%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Systems%20%7C%20Python%20%7C%20Web%20Development%20%7C%20Machine%20Learning&descAlignY=58&descSize=18"
-    width="100%"
-  />
-</p>
+## 🧑‍💻 About Me
 
-<!-- ===================== INTRO ===================== -->
+<table>
+<tr>
+<td width="55%">
 
-## 🚀 About Me
+### Hello! 👋
 
-```python
-class GowthamKumar:
+I'm **Gowtham Kumar K**, a Software Systems student interested in building practical software solutions.
 
-    name = "Gowtham Kumar K"
-    username = "gowtham5204"
+🎓 **M.Sc. Software Systems**  
+🏫 **KG College of Arts & Science**
 
-    education = "M.Sc. Software Systems"
-    college = "KG College of Arts & Science"
+I enjoy working with:
 
-    interests = [
-        "Software Development",
-        "Python Development",
-        "Web Development",
-        "Machine Learning",
-        "Data Analytics",
-        "Power BI"
-    ]
+- 🐍 Python
+- 🌐 Web Development
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 📈 Power BI
+- 🗄️ SQL & Databases
+- 🧪 Software Testing
 
-    currently_learning = [
-        "Advanced Python",
-        "Machine Learning",
-        "Web Technologies",
-        "Data Analytics",
-        "Software Testing"
-    ]
+</td>
 
-    goal = "Build useful software and intelligent applications"
+<td width="45%">
+
+```text
+┌─────────────────────────┐
+│       GOWTHAM K         │
+├─────────────────────────┤
+│                         │
+│  💻 Developer           │
+│  🐍 Python              │
+│  🌐 Web                 │
+│  🤖 Machine Learning    │
+│  📊 Data                │
+│  📈 Power BI            │
+│                         │
+└─────────────────────────┘
